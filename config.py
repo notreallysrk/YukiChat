@@ -26,7 +26,7 @@ FSUB = getenv("FSUB", True) # Promote Bot Admin on Your Channel (Fsub Channel Id
 
 OWNER_ID = int(getenv("OWNER_ID", None))
 OWNER = 7473021518
-LOGGER_GROUP_ID = -1003673268434 # Bot Events Logs
+LOGGER_GROUP_ID = -1002489896810 # Bot Events Logs
 
 SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "Archoncare")
 UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "ArchonNetwork")
